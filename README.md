@@ -1,5 +1,4 @@
 # 💫 About Me:
-> :warning: ¡Estas son las notas de la primer versión, se esperan futuras actualizaciones!
 I'm currently working on my own projects.<br><br>I'm learning:<br><br>New libraries and frameworks in Python.<br>Data processing and analysis techniques.<br>Web application development using frameworks like Flask or Django.<br><br>I'm looking to collaborate with other developers.<br>Looking for team working.<br>
 
 
